@@ -1,11 +1,5 @@
 {
     "name": "Love Keyword",
     "version": "1.0.0",
-    "manifest_version": 3,
-    // "content_scripts": [
-    //  {
-    //     "matches": []
-    //  }
-
-    // ]
+    "manifest_version": 3
 }
