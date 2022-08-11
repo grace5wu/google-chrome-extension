@@ -1,5 +1,6 @@
 {
     "name": "Love Keyword",
+    "description": "Build an Extension",
     "version": "1.0.0",
     "manifest_version": 3
 }
